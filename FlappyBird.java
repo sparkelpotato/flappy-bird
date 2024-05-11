@@ -4,7 +4,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * Write a description of class FlappyBird here.
  * 
  * @author Ryan 
- * @version day-2
+ * @version finished
  */
 public class FlappyBird extends Actor
 {
