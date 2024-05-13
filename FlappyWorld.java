@@ -3,8 +3,8 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * Write a description of class FlappyWorld here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Ryan
+ * @version finished
  */
 public class FlappyWorld extends World
 {
