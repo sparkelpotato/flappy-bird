@@ -3,8 +3,8 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * Write a description of class GetReady here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author ryan 
+ * @version finished
  */
 public class GetReady extends Actor
 {
